@@ -4,7 +4,15 @@ The [Day01](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/01
 
 ## Notes
 
-maybe take some notes here.
+### Python String Print
+
+```py
+'%d this is three' % 3
+
+'%f this is a float' % 1.5
+
+'%s this is a string' % 'hehe'
+```
 
 ## Practice
 
