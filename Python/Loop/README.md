@@ -2,6 +2,10 @@
 
 The [Day04](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/04.%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84.md) content of [Python-100-Days](https://github.com/jackfrued/Python-100-Days#day0115---python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80)
 
+* Understand `for, while` loop statement
+* Know what are iterables and how to use it
+* Understand `bread, continue` statement
+
 ## Notes
 
 > maybe take some notes here with Markdown syntax

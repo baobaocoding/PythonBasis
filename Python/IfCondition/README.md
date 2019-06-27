@@ -2,6 +2,9 @@
 
 The [Day03](https://github.com/jackfrued/Python-100-Days/blob/master/Day01-15/03.%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84.md) content of [Python-100-Days](https://github.com/jackfrued/Python-100-Days#day0115---python%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80)
 
+* Understand the `if, elif, else` conditions
+* Get familiar with the boolean
+
 ## Notes
 
 > maybe take some notes here with Markdown syntax
