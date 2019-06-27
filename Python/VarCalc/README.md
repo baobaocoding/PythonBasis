@@ -69,6 +69,8 @@ def Area(radius):
 * But not a multiple of 100
 * But can be a multiple of 400
 
+> Hint: "a number is a multiple of x" can be represented by "number % x == 0"
+
 ```py
 def isLeap(year):
     """ determine if a year is leap year or not """

@@ -34,7 +34,7 @@ Recall the Python Basis
 
 | Subject                                          | Start Date | Finished (Y/N) |
 | ------------------------------------------------ | ---------- | -------------- |
-| [Variable and Basic Calculation](Python/VarCalc) | 2019/6/25  | N              |
+| [Variable and Basic Calculation](Python/VarCalc) | 2019/6/25  | Y (2019/6/27)  |
 | [If Condition](Python/IfCondition)               | 2019/6/27  | N              |
 | [Loops](Python/Loop)                             | 2019/6/28  | N              |
 
