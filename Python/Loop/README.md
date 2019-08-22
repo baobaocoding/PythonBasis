@@ -43,7 +43,7 @@ Special statements
 * Let user try to guess the number
   * If correct then break the loop
   * If not correct then
-    * If error times less than 7 times then show the number is "bigger" or "smaller
+    * If error times less than 7 times then show the number is "bigger" or "smaller"
     * If error times reach 7 times then lose the game
 
 ### 2. 9x9 Table
