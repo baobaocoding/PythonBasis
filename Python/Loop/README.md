@@ -58,6 +58,14 @@ Print the 9x9 Table as the format
 1x9=9 ...   ... 9x9=81
 ```
 
+> hint:
+> 
+> * print end with new line (default)
+> 
+> ```py
+> print(content, end="\n")
+> ```
+
 ### 3. Determine a number whether it is a prime
 
 * Not Prime: Able to find any number can divide it with no remainder (to be divisible by the number)
