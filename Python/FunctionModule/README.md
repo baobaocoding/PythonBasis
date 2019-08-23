@@ -49,7 +49,7 @@ func()
 #### 1.1 Factorial
 
 $$
-x! = \prod_{i = 1}^N i
+f(x) = x! = \prod_{i = 1}^N i
 $$
 
 #### 1.2 Summation formula
