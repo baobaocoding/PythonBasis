@@ -36,7 +36,7 @@ Recall the Python Basis
 | ------------------------------------------------ | ---------- | -------------- |
 | [Variable and Basic Calculation](Python/VarCalc) | 2019/6/25  | Y (2019/6/27)  |
 | [If Condition](Python/IfCondition)               | 2019/6/27  | Y (2019/8/22)  |
-| [Loops](Python/Loop)                             | 2019/8/22  | N              |
+| [Loops](Python/Loop)                             | 2019/8/22  | Y (2019/8/23)  |
 | [Function and Module](FunctionModule)            | 2019/8/23  | N              |
 
 ## Note
