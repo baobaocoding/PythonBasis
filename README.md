@@ -28,9 +28,24 @@ How to get the latest update from Github?
 
 1. Use the left-bottom button in VSCode or using `git fetch` and then `git pull` (make sure the current repository (directory) is clean (no unstage modification))
 
+### Jupyter Notebook
+
+> Get the jupyter notebook by `pip3 install jupyterlab`
+
+```sh
+# Open jupyter notebook in current directory
+jupyter notebook
+# Open the specific notebook file
+jupyter notebook filename.ipynb
+```
+
+* Terminate the jupyter notebook server by `ctrl + c` or clicking Quit button on the webpage
+* Create code block for Python code
+* Create markdown block for notes
+
 ## Schedule
 
-Recall the Python Basis
+### Recall the Python Basis
 
 | Subject                                          | Start Date | Finished (Y/N) |
 | ------------------------------------------------ | ---------- | -------------- |
@@ -38,6 +53,37 @@ Recall the Python Basis
 | [If Condition](Python/IfCondition)               | 2019/6/27  | Y (2019/8/22)  |
 | [Loops](Python/Loop)                             | 2019/8/22  | Y (2019/8/23)  |
 | [Function and Module](FunctionModule)            | 2019/8/23  | Y (2019/8/23)  |
+
+### Kaggle Python
+
+| Lesson                          | Start Date | Finished (Y/N) |
+| ------------------------------- | ---------- | -------------- |
+| Hello, Python                   | 2019/9/7   | N              |
+| Functions and Getting Help      | -          | N              |
+| Booleans and Conditionals       | -          | N              |
+| Lists                           | -          | N              |
+| Loops and List Comprehensions   | -          | N              |
+| Strings and Dictionaries        | -          | N              |
+| Working with External Libraries | -          | N              |
+
+1. Goto the [Kaggle Learn Python page](https://www.kaggle.com/learn/python)
+2. View the Tutorial of the Lesson
+3. Click the link under Your Turn or the Exercise
+   * The code is an jupyter notebook. In Kaggle it is called Kaggle Kernal
+4. Edit the Code
+   1. If encounter difficulties, uncommit the `qnum.hint()` and run it for the hint
+   2. Uncommit the `qnum.solution()` to see the detail explination
+   3. The `qnum.check()` will automatically check your solution
+5. Execute the Code in order
+   * Make sure the code block start with `from learntools.core import ...` has been executed first
+   * For the shortcut, you can use `shift + enter` to run the current code block
+6. Commit the changes online or download the notebook by clicking `File > Download notebook` and then commit locally
+
+### To Be Put In Schedule
+
+* String, List, Dict, (Tuple, Set)
+* OOP (Class)
+* Real word cases (Playing with external libraries)
 
 ## Note
 
@@ -58,10 +104,13 @@ Bash/Shell (Console/Terminal/Command Line)
 
 Python
 
+* [**Kaggle Python**](https://www.kaggle.com/learn/python)
 * [**Python-100-Days**](https://github.com/jackfrued/Python-100-Days)
 * Codecademy
   * [**Learn Python**](https://www.codecademy.com/learn/learn-python)
   * [**Learn Statistics With Python**](https://www.codecademy.com/learn/learn-statistics-with-python)
+* [Python Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+* [Python Review](http://web.stanford.edu/class/cs224n/readings/python-review.pdf)
 
 Markdown
 
